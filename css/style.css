@@ -1,0 +1,52 @@
+/* header section start  */
+.btn-down .btn:hover{
+    background-color:brown;
+    transition: 0.3s;
+    transform:translateX(5px);
+    border-radius: 5px;
+}
+/* header section end  */
+
+/* banner section start  */
+.btn-down1 .btn:hover{
+    background-color:brown;
+    transition: 0.3s;
+    transform:translateX(5px);
+    border-radius: 5px;
+}
+
+.banner .banner-title h3:hover{
+    color:darkred;
+    transform: translateX(5px);
+}
+/* banner section end  */
+
+/* take care section start  */
+.btn-down2 .btn:hover{
+    background-color:brown;
+    transition: 0.3s;
+    transform:translateX(5px);
+    border-radius: 5px;
+} 
+/* take care section end   */
+
+/* form section start  */
+.btn-down3 .btn:hover{
+    background-color:brown;
+    transition: 0.3s;
+    transform:translateX(5px);
+    border-radius: 5px;
+} 
+/* form section end  */
+
+/* footer section strat  */
+.footer ul li:hover{
+    color: brown;
+    font-size: 25px;
+}
+
+.footer h6:hover{
+    color: brown;
+    font-size: 15px;
+}
+/* footer section end  */
